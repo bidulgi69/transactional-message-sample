@@ -9,7 +9,7 @@
 
 #### build
 ```
-make build
+make generate
 ```
 #### run
 ```
