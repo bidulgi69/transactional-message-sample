@@ -7,6 +7,11 @@
 
 ## Run
 
+#### intel 사용 시 default compose 변경
+```
+export COMPOSE_FILE=docker-compose-intel.yml
+```
+
 #### build
 ```
 make generate
